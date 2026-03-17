@@ -1,1 +1,43 @@
+# Projeto de Interface: Fluxo de Navegação e Prototipagem
+
+Este repositório apresenta o desenvolvimento de uma interface focada em experiência do usuário (UX), explorando a arquitetura de informação e a flexibilidade de navegação através do Figma.
+
+---
+
+## 🛠️ Desenvolvimento e Ferramentas
+O projeto foi inteiramente **desenvolvido no Figma**, seguindo as etapas de estruturação lógica e funcional antes da alta fidelidade.
+
+* **Wireframe de Baixa Fidelidade:** Focado na hierarquia de elementos e na disposição dos componentes.
+* **Fluxo Navegável:** Protótipo interativo para simulação da experiência real de uso.
+* **Design Iterativo:** Estrutura simplificada para validação rápida de fluxos.
+
+---
+
+## 📋 Detalhamento do Projeto
+
+O objetivo principal deste projeto foi garantir que o usuário tenha autonomia para completar uma tarefa central de diferentes formas, adaptando-se a diferentes perfis de uso.
+
+### 🔄 Dualidade de Fluxo
+Para a mesma tarefa principal, foram desenhados dois caminhos distintos:
+
+1.  **Caminho Direto (Atalho):** Focado em usuários que já conhecem a interface e buscam rapidez (Ex: via botão de ação rápida na Home).
+2.  **Caminho Guiado (Menu/Busca):** Focado em usuários que preferem uma navegação exploratória ou detalhada (Ex: através da hierarquia de categorias).
+
+---
+
+## 🖼️ Visualização do Wireframe
+> *Aqui você pode inserir uma imagem do seu wireframe no Figma para enriquecer o README.*
+> 
+> `![Wireframe do Projeto](./caminho-da-sua-imagem.png)`
+
+---
+
+## 🔗 Entregas Obrigatórias
+
+* **Protótipo Interativo:** [Clique aqui para acessar o protótipo no Figma](https://www.figma.com/design/TBJGquGSoJFH627At8Lr7G/Sem-t%C3%ADtulo?node-id=0-1&t=w7pYm6VsVVKGHmwn-1)
+* **Documentação:** Este arquivo README serve como o detalhamento técnico da estrutura proposta.
+
+---
+
+
 https://www.figma.com/design/TBJGquGSoJFH627At8Lr7G/Sem-t%C3%ADtulo?node-id=0-1&t=w7pYm6VsVVKGHmwn-1
