@@ -1,0 +1,28 @@
+📝 Sobre o Projeto
+Este projeto consiste no desenvolvimento de uma interface desktop para uma loja virtual especializada em vestuário e calçados de academia. O foco principal foi gerenciar a densidade de informações (filtros, especificações de produtos e estoque) sem comprometer a fluidez da navegação.
+
+O protótipo foi construído em média fidelidade (wireframes estruturados) para validar a hierarquia visual e a usabilidade antes da implementação visual final.
+🎯 Objetivos de Design
+
+🏗️ Arquitetura da Informação e Dados Densos
+Para lidar com a complexidade de um catálogo esportivo, foram aplicadas as seguintes estratégias:
+
+Filtros Avançados: Organização por categoria de treino (Crossfit, Corrida), material, tamanho e tecnologia de amortecimento.
+
+Matriz de Variantes: Exibição clara de disponibilidade de estoque integrada à seleção de tamanhos e cores na página do produto.
+
+Hierarquia de Especificações: Divisão entre descrição emocional do produto e dados técnicos (peso do tênis, drop, composição do tecido).
+
+🛠 Ferramentas Utilizadas
+Figma: Design de interface e prototipagem.
+
+Técnicas: Auto Layout, Componentização, Variáveis de Design.
+
+🚀 O Protótipo
+O fluxo principal permite ao usuário: [te uma esperiencia facil, na loja virtual criada no figma].
+
+Caminho Estruturado: Navegação detalhada através do módulo de "Relatórios" no menu lateral.
+
+🔗 Link do Protótipo no Figma
+Clique aqui para visualizar o protótipo interativo
+https://www.figma.com/proto/S2kfhICTRbGIRTOHgq56e6/Loja-de-Roupas?node-id=1-6&starting-point-node-id=1%3A6
